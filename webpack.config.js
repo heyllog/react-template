@@ -14,7 +14,7 @@ module.exports = {
 
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'Wallet',
+      title: 'App',
       template: './src/index.html',
     }),
   ],
